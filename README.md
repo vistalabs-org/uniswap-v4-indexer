@@ -1,6 +1,6 @@
 # Uniswap v4 Indexer
 
-A public Uniswap v4 indexer built with [Envio](https://envio.dev) that can be used by any developer to power their infrastructure.
+Uniswap v4 indexer built with [Envio](https://envio.dev) that can be used by any developer to power their infrastructure.
 
 _Please refer to the [documentation website](https://docs.envio.dev) for a thorough guide on all [Envio](https://envio.dev) indexer features_
 
